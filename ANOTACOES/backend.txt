@@ -1,0 +1,49 @@
+01 - Introdução
+
+02 - Instalando o Node
+
+03 - Conceitos de Front-End, Back-End e Full-Stack
+
+04 - npm
+
+05 - Criando o primeiro projeto com Node:
+
+    - npm init -y
+
+06 - Instalando o Express:
+
+    - npm i express
+
+07 - Subindo nosso primeiro servidor
+
+08 - Protocolo HTTP
+
+09 - Criando nossa primeira rota
+
+10 - Criando primeira rota tipo POST
+
+11 - Query Params, Route Params e Body Params:
+
+    - node --watch server.js (para não ficar parando o servidor, quando alterado)
+
+12 - Criando cadastro de usuário
+
+13 - Criando nosso primeiro banco de dados: 
+
+    - (https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb-typescript-mongodb)
+
+    - npm install prisma --save-dev
+
+    - npx prisma init
+
+    -npm install @prisma/client
+
+    - prisma db push
+
+    - prisma studio
+
+14 - Salvando usuário no banco de dados
+
+15 - Editando usuário
+
+16 - deletando usuário
